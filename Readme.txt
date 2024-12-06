@@ -1,0 +1,1 @@
+This game is about humans saving the ocean from trash. It uses predictive AI to find the best position for the trash to help the player win. Players can use the Konami Code to reset the position bar.
